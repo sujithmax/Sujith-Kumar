@@ -1,1 +1,46 @@
-# Sujith-Kumar
+# Hi, I'm Sujith 👋
+
+Android Developer | B.Tech CSE (4th Year) | Fast Learner
+
+## 🚀 About Me
+
+- 🎓 Currently pursuing my 4th year of B.Tech
+- 📱 Skilled in **Android Development** (Java, Kotlin)
+- 🌐 Also work with **HTML, CSS, and JavaScript**
+- 🔐 Built an **AES-based Image Encryption & Decryption** tool as my 3rd-year minor project
+- 📚 Quick to pick up new technologies — open to learning beyond my current skill set
+- 💼 Actively looking for **internship opportunities** in Android/software development
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=sujithmax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sujithmax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=sujithmax&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📫 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujithsnk_)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/sujithsnk_)
+[![](https://komarev.com/ghpvc/?username=sujithmax&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
