@@ -31,7 +31,6 @@ Android Developer | B.Tech CSE (4th Year) | Fast Learner
 ## 📫 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sujithsnk_)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/sujithsnk_)
-[![](https://komarev.com/ghpvc/?username=sujithmax&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?logo=telegram&logoColor=white)](https://t.me/sujithsnk)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
