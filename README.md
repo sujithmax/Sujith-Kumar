@@ -27,15 +27,6 @@ Android Developer | B.Tech CSE (4th Year) | Fast Learner
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=sujithmax&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sujithmax&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=sujithmax&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📫 Connect with Me
 
